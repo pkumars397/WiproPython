@@ -1,0 +1,6 @@
+import sys
+n=len(sys.argv)
+
+sys.argv[0]=-Infinite
+print("Biggest is: ",max(sys.argv))
+    

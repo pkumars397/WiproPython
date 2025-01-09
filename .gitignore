@@ -1,0 +1,10 @@
+Doc/
+include/
+lib/
+libs/
+scripts/
+tcl/
+__pycache__/
+DLLs/
+*.dll 
+*.exe

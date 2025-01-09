@@ -1,0 +1,5 @@
+today is the third day session
+we study files
+error handling
+lib
+git
