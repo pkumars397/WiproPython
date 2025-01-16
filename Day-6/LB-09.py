@@ -13,5 +13,3 @@ def mobCheck(number):
 
 n="+919185219968"
 print(mobCheck(n))
-        
-            
